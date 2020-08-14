@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAPA-PROGI-CSHARP", "MAPA-PROGI-CSHARP\MAPA-PROGI-CSHARP.csproj", "{DA902352-2CD1-42AD-867C-837CF8062DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA902352-2CD1-42AD-867C-837CF8062DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA902352-2CD1-42AD-867C-837CF8062DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA902352-2CD1-42AD-867C-837CF8062DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA902352-2CD1-42AD-867C-837CF8062DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {447BF0C1-A8DF-4ED5-B198-23B394191EA0}
+	EndGlobalSection
+EndGlobal
